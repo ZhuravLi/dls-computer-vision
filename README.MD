@@ -2,10 +2,6 @@
 
 <h2 style="text-align:center">Computer vision</h2>
 
-<p align="center">
- <img src="_static/logo_readme.png" width=1280>
-</p>
-
 В данном репозитории лежат мои решения задач из курса по нейронным сетям от Физтех-школы Прикладной математики и информатики МФТИ (Deep Learning School). Сайт: https://github.com/DLSchool
 
 # Темы решенных задач
